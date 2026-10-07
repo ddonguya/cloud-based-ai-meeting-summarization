@@ -8,7 +8,7 @@ The goal of this project is to build a cloud-based application that helps users 
 
 The application will process meeting recordings and generate:
 
-Meeting summaries Key discussion points Decisions made Action items Other relevant meeting insights Architecture Meeting Audio/Video │ ▼ Amazon S3 │ ▼ Amazon Transcribe │ ▼ Transcript (JSON) │ ▼ AWS Lambda │ ▼ Amazon Bedrock │ ▼ AI-Generated Summary │ ▼ Amazon S3
+Meeting summaries Key discussion points Decisions made Action items Other relevant meeting insights Architecture Meeting Audio/Video │ ▼ Amazon S3 │ ▼ Amazon Transcribe │ ▼ Transcript (JSON) │ ▼ AWS Lambda │ ▼ Gemini 3.5 Flash Lite │ ▼ AI-Generated Summary │ ▼ Amazon S3
 
 AWS Services Service Purpose
 
